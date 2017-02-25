@@ -1,0 +1,33 @@
+header{
+    width: 100%;
+    left: 0;
+    top: 0;
+    position: fixed;
+    z-index: 100;
+}
+
+body{
+    padding-top: 4%;
+}
+
+ul#nav-mobile li a{
+    position: relative;
+    color: #FFF;
+    font-weight: bold;
+}
+
+ul#nav-mobile li a:before{
+    position: absolute;
+    color: #64dd19;
+    content: attr(title);
+    left: 15px;
+    top: 0px;
+    max-width: 0%;
+    white-space: nowrap;
+    overflow: hidden;
+    transition: max-width 0.3s linear
+}
+
+ul#nav-mobile li a:hover:before{
+    max-width: 100%;
+}
