@@ -18,7 +18,7 @@ ul#nav-mobile li a{
 
 ul#nav-mobile li a:before{
     position: absolute;
-    color: #64dd19;
+    color: limegreen;
     content: attr(title);
     left: 15px;
     top: 0px;

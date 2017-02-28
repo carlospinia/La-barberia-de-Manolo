@@ -24,7 +24,7 @@
             <!--PC-->
             <!--izquierda-->
             <div class="col m5 l5"></div>
-            <img class="responsive-img col s12 m7 l7" src="imagenes/fotoPortada2.jpg" alt=""/>
+            <img class="responsive-img col s12 m6 l6" src="imagenes/fotoPortada2.jpg" alt=""/>
             <!--derecha
             <img class="responsive-img col m4 l4 hide-on-small-only" src="imagenes/american-crew-aleksandr-chasovskih-02_1000.jpg" alt=""/>
             <div class="col m2 l2"></div>

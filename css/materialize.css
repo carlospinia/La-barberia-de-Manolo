@@ -3,6 +3,11 @@
  * Copyright 2014-2015 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
+
+a:focus {
+  outline: none;
+}
+
 .materialize-red {
   background-color: #e51c23 !important;
 }
@@ -4827,11 +4832,16 @@ small {
 }
 
 .tabs .indicator {
+  display: none;
   position: absolute;
   bottom: 0;
-  height: 2px;
-  background-color: #f6b2b5;
+  height: 100%;
+  background-color: #0f9d58;
   will-change: left, right;
+}
+
+.tabs .tab a.active {
+  border-bottom: 2px solid #238104;
 }
 
 @media only screen and (max-width: 992px) {
