@@ -5,7 +5,7 @@
         <title>La barbería de Manolo</title>
         <link rel="stylesheet" href="css/menu.css">
         <link rel="stylesheet" href="css/index.css">
-        <link id="favicon" rel="icon" href="imagenes/icons/razor_black.png" type="image/png"/>-
+        <link id="favicon" rel="icon" href="razor_black.png" type="image/png"/>-
 
         <!--Import Google Icon Font-->
         <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
