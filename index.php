@@ -22,13 +22,20 @@
             <img class="responsive-img col s12 hide-on-med-and-up" src="imagenes/fotoPortada_degradado.jpg" alt=""/>
             -->
             <!--PC-->
-            <!--izquierda-->
+            <!--izquierda
             <div class="col m5 l5"></div>
             <img class="responsive-img col s12 m6 l6" src="imagenes/fotoPortada2.jpg" alt=""/>
             <!--derecha
             <img class="responsive-img col m4 l4 hide-on-small-only" src="imagenes/american-crew-aleksandr-chasovskih-02_1000.jpg" alt=""/>
             <div class="col m2 l2"></div>
             -->
+
+            <!-- foto sillones -->
+            <div class="col m1 l1"></div>
+            <img class="responsive-img col m10 l10" src="imagenes/fotoBarbería.jpg" alt=""/>
+            <div class="col m1 l1"></div>
+
+
         </div>
         
         <?php include 'common/float_menu.php' ?>

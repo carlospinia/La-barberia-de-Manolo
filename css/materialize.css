@@ -4013,10 +4013,12 @@ input[type=range] + .thumb {
 }
 
 nav {
+  padding-left: 8.33%;
+  padding-right: 8.33%;
   color: #fff;
   background-color: #000;
   width: 100%;
-  height: 80px;
+  height: 85px;
   /*border-bottom: solid 3px #1E8201;*/
 }
 
@@ -4078,7 +4080,8 @@ nav .brand-logo {
 }
 
 nav .brand-logo img {
-     max-height: 77px;
+  margin-top: 8px;
+  max-height: 77px;
 }
 
 nav .brand-logo.center {
@@ -4208,7 +4211,7 @@ nav .input-field label.active {
 
 @media only screen and (min-width: 601px) {
   nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
-    height: 83px;
+    height: 85px;
     line-height: 83px;
   }
   .navbar-fixed {
@@ -4979,7 +4982,7 @@ small {
 }
 
 .btn:hover, .btn-large:hover {
-  background-color: #2bbbad;
+  background-color: #32cd32;
 }
 
 .btn-floating {
@@ -4992,7 +4995,7 @@ small {
   height: 40px;
   line-height: 40px;
   padding: 0;
-  background-color: #26a69a;
+  background-color: #32cd32;
   border-radius: 50%;
   transition: .3s;
   cursor: pointer;
@@ -5009,7 +5012,7 @@ small {
 }
 
 .btn-floating:hover {
-  background-color: #26a69a;
+  background-color: #32cd32;
 }
 
 .btn-floating:before {
