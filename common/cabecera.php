@@ -1,7 +1,8 @@
 <header>
     <nav>
     <div class="nav-wrapper">
-      <a href="index.php" class="brand-logo"><img src="imagenes/cabecera.png" alt=""/></a>
+      <a href="index.php" class="brand-logo left"><img src="imagenes/cabecera.png" alt=""/></a>
+      <a href="#" data-activates="slide-out" class="button-collapse right"><i class="material-icons">menu</i></a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
             <li> <a title="Servicios" href="">Servicios</a> </li>
             <li> <a title="Contacto" href="">Contacto</a> </li>

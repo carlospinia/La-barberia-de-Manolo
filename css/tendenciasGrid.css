@@ -2,6 +2,10 @@ body {
 	padding-top: 75px;
 }
 
+img:hover{
+	size: ;
+}
+
 .grid {
 	position: relative;
 	margin: 0 auto;

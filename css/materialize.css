@@ -4,6 +4,10 @@
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
 
+body{
+  padding-top: 80px;
+}
+
 a:focus {
   outline: none;
 }
@@ -2228,7 +2232,7 @@ template {
  * Remove the gray background color from active links in IE 10.
  */
 a {
-  background-color: transparent;
+  background-color: rgba(0, 0, 0, 0.37);
 }
 
 /**
@@ -4012,6 +4016,7 @@ input[type=range] + .thumb {
   }
 }
 
+
 nav {
   padding-left: 8.33%;
   padding-right: 8.33%;
@@ -4022,7 +4027,12 @@ nav {
   /*border-bottom: solid 3px #1E8201;*/
 }
 
-
+@media only screen and (max-width: 600px){
+  nav{
+    padding-left: 0; !important;
+    padding-right: 0; !important;
+  }
+}
 
 nav.nav-extended {
   height: auto;

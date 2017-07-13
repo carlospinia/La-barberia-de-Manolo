@@ -32,7 +32,8 @@
 <div id="hair_and_body_tab" class="col s12"><?php include 'prod_style.php' ?></div>
 <div id="shave_tab" class="col s12"><?php include 'prod_shave.php' ?></div>
 
-<?php include 'common/float_menu.php' ?>
+<?php //include 'common/float_menu.php' ?>
+<?php include 'common/navLateral.php' ?>
 
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 <script type="text/javascript" src="js/materialize.min.js"></script>

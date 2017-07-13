@@ -150,8 +150,8 @@
         </div>
         <!-- /preview -->
     </div>
-
-    <?php include 'common/float_menu.php' ?>
+    <?php include 'common/navLateral.php' ?>
+<!--    --><?php //include 'common/float_menu.php' ?>
 </div>
 <!-- /container -->
 <script src="js/imagesloaded.pkgd.min.js"></script>
