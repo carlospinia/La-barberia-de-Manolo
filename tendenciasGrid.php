@@ -33,112 +33,82 @@
     <div class="content">
         <div class="grid">
             <div class="grid__item" data-size="1280x853">
-                <a href="img/original/1.jpg" class="img-wrap"><img src="img/thumbs/1.jpg" alt="img01" />
+                <a href="imagenes/tendencias/1.jpg" class="img-wrap"><img src="imagenes/tendencias/1.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
             <div class="grid__item" data-size="958x1280">
-                <a href="img/original/2.jpg" class="img-wrap"><img src="img/thumbs/2.jpg" alt="img02" />
+                <a href="imagenes/tendencias/2.jpg" class="img-wrap"><img src="imagenes/tendencias/2.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
             <div class="grid__item" data-size="837x1280">
-                <a href="img/original/3.jpg" class="img-wrap"><img src="img/thumbs/3.jpg" alt="img03" />
+                <a href="imagenes/tendencias/3.jpg" class="img-wrap"><img src="imagenes/tendencias/3.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
             <div class="grid__item" data-size="1280x961">
-                <a href="img/original/4.jpg" class="img-wrap"><img src="img/thumbs/4.jpg" alt="img04" />
+                <a href="imagenes/tendencias/4.jpg" class="img-wrap"><img src="imagenes/tendencias/4.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
             <div class="grid__item" data-size="1280x1131">
-                <a href="img/original/5.jpg" class="img-wrap"><img src="img/thumbs/5.jpg" alt="img05" />
+                <a href="imagenes/tendencias/5.jpg" class="img-wrap"><img src="imagenes/tendencias/5.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
             <div class="grid__item" data-size="1280x857">
-                <a href="img/original/6.jpg" class="img-wrap"><img src="img/thumbs/6.jpg" alt="img06" />
+                <a href="imagenes/tendencias/6.jpg" class="img-wrap"><img src="imagenes/tendencias/6.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
             <div class="grid__item" data-size="1280x1280">
-                <a href="img/original/7.jpg" class="img-wrap"><img src="img/thumbs/7.jpg" alt="img07" />
+                <a href="imagenes/tendencias/7.jpg" class="img-wrap"><img src="imagenes/tendencias/7.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
             <div class="grid__item" data-size="1280x853">
-                <a href="img/original/8.jpg" class="img-wrap"><img src="img/thumbs/8.jpg" alt="img08" />
+                <a href="imagenes/tendencias/8.jpg" class="img-wrap"><img src="imagenes/tendencias/8.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
             <div class="grid__item" data-size="865x1280">
-                <a href="img/original/9.jpg" class="img-wrap"><img src="img/thumbs/9.jpg" alt="img09" />
+                <a href="imagenes/tendencias/9.jpg" class="img-wrap"><img src="imagenes/tendencias/9.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
             <div class="grid__item" data-size="1280x1280">
-                <a href="img/original/10.jpg" class="img-wrap"><img src="img/thumbs/10.jpg" alt="img10" />
-                    <div class="description description--grid"></div>
-                </a>
-            </div>
-            <div class="grid__item" data-size="1280x850">
-                <a href="img/original/11.jpg" class="img-wrap"><img src="img/thumbs/11.jpg" alt="img11" />
-                    <div class="description description--grid"></div>
-                </a>
-            </div>
-            <div class="grid__item" data-size="1280x853">
-                <a href="img/original/1.jpg" class="img-wrap"><img src="img/thumbs/1.jpg" alt="img01" />
-                    <div class="description description--grid"></div>
-                </a>
-            </div>
-            <div class="grid__item" data-size="958x1280">
-                <a href="img/original/2.jpg" class="img-wrap"><img src="img/thumbs/2.jpg" alt="img02" />
-                    <div class="description description--grid"></div>
-                </a>
-            </div>
-            <div class="grid__item" data-size="837x1280">
-                <a href="img/original/3.jpg" class="img-wrap"><img src="img/thumbs/3.jpg" alt="img03" />
-                    <div class="description description--grid"></div>
-                </a>
-            </div>
-            <div class="grid__item" data-size="1280x961">
-                <a href="img/original/4.jpg" class="img-wrap"><img src="img/thumbs/4.jpg" alt="img04" />
-                    <div class="description description--grid"></div>
-                </a>
-            </div>
-            <div class="grid__item" data-size="1280x1131">
-                <a href="img/original/5.jpg" class="img-wrap"><img src="img/thumbs/5.jpg" alt="img05" />
-                    <div class="description description--grid"></div>
-                </a>
-            </div>
-            <div class="grid__item" data-size="1280x857">
-                <a href="img/original/6.jpg" class="img-wrap"><img src="img/thumbs/6.jpg" alt="img06" />
+                <a href="imagenes/tendencias/10.jpg" class="img-wrap"><img src="imagenes/tendencias/10.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
             <div class="grid__item" data-size="1280x1280">
-                <a href="img/original/7.jpg" class="img-wrap"><img src="img/thumbs/7.jpg" alt="img07" />
-                    <div class="description description--grid"></div>
-                </a>
-            </div>
-            <div class="grid__item" data-size="1280x853">
-                <a href="img/original/8.jpg" class="img-wrap"><img src="img/thumbs/8.jpg" alt="img08" />
-                    <div class="description description--grid"></div>
-                </a>
-            </div>
-            <div class="grid__item" data-size="865x1280">
-                <a href="img/original/9.jpg" class="img-wrap"><img src="img/thumbs/9.jpg" alt="img09" />
+                <a href="imagenes/tendencias/11.jpg" class="img-wrap"><img src="imagenes/tendencias/11.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
             <div class="grid__item" data-size="1280x1280">
-                <a href="img/original/10.jpg" class="img-wrap"><img src="img/thumbs/10.jpg" alt="img10" />
+                <a href="imagenes/tendencias/12.jpg" class="img-wrap"><img src="imagenes/tendencias/12.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
-            <div class="grid__item" data-size="1280x850">
-                <a href="img/original/11.jpg" class="img-wrap"><img src="img/thumbs/11.jpg" alt="img11" />
+            <div class="grid__item" data-size="1280x1280">
+                <a href="imagenes/tendencias/13.jpg" class="img-wrap"><img src="imagenes/tendencias/13.jpg"/>
+                    <div class="description description--grid"></div>
+                </a>
+            </div>
+            <div class="grid__item" data-size="1280x1280">
+                <a href="imagenes/tendencias/14.jpg" class="img-wrap"><img src="imagenes/tendencias/14.jpg"/>
+                    <div class="description description--grid"></div>
+                </a>
+            </div>
+            <div class="grid__item" data-size="1280x1280">
+                <a href="imagenes/tendencias/15.jpg" class="img-wrap"><img src="imagenes/tendencias/15.jpg"/>
+                    <div class="description description--grid"></div>
+                </a>
+            </div>
+            <div class="grid__item" data-size="1280x1280">
+                <a href="imagenes/tendencias/16.jpg" class="img-wrap"><img src="imagenes/tendencias/16.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>

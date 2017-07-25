@@ -6,10 +6,6 @@ header{
     z-index: 100;
 }
 
-body{
-    padding-top: 5%;
-}
-
 ul#nav-mobile li a{
     position: relative;
     color: #FFF;
@@ -30,4 +26,8 @@ ul#nav-mobile li a:before{
 
 ul#nav-mobile li a:hover:before{
     max-width: 100%;
+}
+
+body{
+    margin-top: 100px; !important;
 }
