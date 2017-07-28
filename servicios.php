@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>La barbería de Manolo</title>
     <link rel="stylesheet" href="css/menu.css">
-    <link rel="stylesheet" href="css/contacto.css">
+    <link rel="stylesheet" href="css/servicios.css">
     <link id="favicon" rel="icon" href="razor_black.png" type="image/png"/>
 
     <!--Import Google Icon Font-->
@@ -15,111 +15,109 @@
     <!--Let browser know website is optimized for mobile-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
+
 <body>
+
 <?php include 'common/cabecera.php' ?>
+
 <div class="row">
 
-    <div class="col s12 m3">
+    <div class="col s12 m5 offset-m1">
         <div class="card black white-text">
             <div class="card-image">
-                <img src="imagenes/servicios/barba.jpg">
+                <img src="imagenes/servicios/barba-sombreado.jpg">
             </div>
-            <div class="card-content black white-text">
+            <div class="card-content transparent white-text" id="textoTarjeta">
                 <span class="card-title center-align">Servicio</span>
                 <p>I am a very simple card. I am good at containing small bits of information...</p>
-                <a style="cursor: pointer;" class="green-text activator">Leer mas</a>
-            </div>
-            <div class="card-reveal black">
-                <span class="card-title center-align">Servicio<i class="material-icons right">close</i></span>
-                <p>Here is some more information about this product that is only revealed once clicked on.</p>
             </div>
         </div>
     </div>
 
-    <div class="col s12 m3">
+    <div class="col s12 m5">
         <div class="card black white-text">
             <div class="card-image">
-                <img src="imagenes/servicios/barba.jpg">
+                <img src="imagenes/servicios/barba-sombreado.jpg">
             </div>
-            <div class="card-content black white-text">
+            <div class="card-content transparent white-text" id="textoTarjeta">
                 <span class="card-title center-align">Servicio</span>
                 <p>I am a very simple card. I am good at containing small bits of information...</p>
-                <a style="cursor: pointer;" class="green-text activator">Leer mas</a>
-            </div>
-            <div class="card-reveal black">
-                <span class="card-title center-align">Servicio<i class="material-icons right">close</i></span>
-                <p>Here is some more information about this product that is only revealed once clicked on.</p>
             </div>
         </div>
     </div>
 
-    <div class="col s12 m3">
+    <div class="col s12 m5 offset-m1">
         <div class="card black white-text">
             <div class="card-image">
-                <img src="imagenes/servicios/barba.jpg">
+                <img src="imagenes/servicios/barba-sombreado.jpg">
             </div>
-            <div class="card-content black white-text">
+            <div class="card-content transparent white-text" id="textoTarjeta">
                 <span class="card-title center-align">Servicio</span>
                 <p>I am a very simple card. I am good at containing small bits of information...</p>
-                <a style="cursor: pointer;" class="green-text activator">Leer mas</a>
-            </div>
-            <div class="card-reveal black">
-                <span class="card-title center-align">Servicio<i class="material-icons right">close</i></span>
-                <p>Here is some more information about this product that is only revealed once clicked on.</p>
             </div>
         </div>
     </div>
 
-    <div class="col s12 m3">
+    <div class="col s12 m5">
         <div class="card black white-text">
             <div class="card-image">
-                <img src="imagenes/servicios/barba.jpg">
+                <img src="imagenes/servicios/barba-sombreado.jpg">
             </div>
-            <div class="card-content black white-text">
+            <div class="card-content transparent white-text" id="textoTarjeta">
                 <span class="card-title center-align">Servicio</span>
                 <p>I am a very simple card. I am good at containing small bits of information...</p>
-                <a style="cursor: pointer;" class="green-text activator">Leer mas</a>
-            </div>
-            <div class="card-reveal black">
-                <span class="card-title center-align">Servicio<i class="material-icons right">close</i></span>
-                <p>Here is some more information about this product that is only revealed once clicked on.</p>
             </div>
         </div>
     </div>
 
-    <div class="col s12 m3">
+    <div class="col s12 m5 offset-m1">
         <div class="card black white-text">
             <div class="card-image">
-                <img src="imagenes/servicios/barba.jpg">
+                <img src="imagenes/servicios/barba-sombreado.jpg">
             </div>
-            <div class="card-content black white-text">
+            <div class="card-content transparent white-text" id="textoTarjeta">
                 <span class="card-title center-align">Servicio</span>
                 <p>I am a very simple card. I am good at containing small bits of information...</p>
-                <a style="cursor: pointer;" class="green-text activator">Leer mas</a>
-            </div>
-            <div class="card-reveal black">
-                <span class="card-title center-align">Servicio<i class="material-icons right">close</i></span>
-                <p>Here is some more information about this product that is only revealed once clicked on.</p>
             </div>
         </div>
     </div>
 
-    <div class="col s12 m3">
+    <div class="col s12 m5">
         <div class="card black white-text">
             <div class="card-image">
-                <img src="imagenes/servicios/barba.jpg">
+                <img src="imagenes/servicios/barba-sombreado.jpg">
             </div>
-            <div class="card-content black white-text">
+            <div class="card-content transparent white-text" id="textoTarjeta">
                 <span class="card-title center-align">Servicio</span>
                 <p>I am a very simple card. I am good at containing small bits of information...</p>
-                <a style="cursor: pointer;" class="green-text activator">Leer mas</a>
-            </div>
-            <div class="card-reveal black">
-                <span class="card-title center-align">Servicio<i class="material-icons right">close</i></span>
-                <p>Here is some more information about this product that is only revealed once clicked on.</p>
             </div>
         </div>
     </div>
+
+    <div class="col s12 m5 offset-m1">
+        <div class="card black white-text">
+            <div class="card-image">
+                <img src="imagenes/servicios/barba-sombreado.jpg">
+            </div>
+            <div class="card-content transparent white-text" id="textoTarjeta">
+                <span class="card-title center-align">Servicio</span>
+                <p>I am a very simple card. I am good at containing small bits of information...</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col s12 m5">
+        <div class="card black white-text">
+            <div class="card-image">
+                <img src="imagenes/servicios/barba-sombreado.jpg">
+            </div>
+            <div class="card-content transparent white-text" id="textoTarjeta">
+                <span class="card-title center-align">Servicio</span>
+                <p>I am a very simple card. I am good at containing small bits of information...</p>
+            </div>
+        </div>
+    </div>
+
 </div>
 
 <!-- navBar -->

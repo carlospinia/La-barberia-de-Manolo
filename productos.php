@@ -25,8 +25,8 @@
     <li class="tab col s4"><a class="white-text" href="#shave_tab">Shave</a></li>
     <div class="indicator" style="right: 697.833px; left: 695.167px;"></div>
 </ul>
-<div id="style_tab" class="col s12"><?php include 'prod_hair-and-body-care.php' ?></div>
-<div id="hair_and_body_tab" class="col s12"><?php include 'prod_style.php' ?></div>
+<div id="style_tab" class="col s12"><?php include 'prod_style.php' ?></div>
+<div id="hair_and_body_tab" class="col s12"><?php include 'prod_hair-and-body-care.php' ?></div>
 <div id="shave_tab" class="col s12"><?php include 'prod_shave.php' ?></div>
 
 <?php include 'common/navLateral.php' ?>
