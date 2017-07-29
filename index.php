@@ -34,7 +34,7 @@
 
             </div>
 
-            <img class="col s12 m9 l6" src="imagenes/fotoPortada2.jpg" alt=""/>
+            <img class="col s12 m9 l6" src="imagenes/index/fotoPortada2.jpg" alt=""/>
 
             <div class="col s12 m3 l5 hide-on-med-and-up">
                 <h5 class="white-text center-align">Horario</h5>

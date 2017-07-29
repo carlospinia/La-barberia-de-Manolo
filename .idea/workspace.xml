@@ -2,57 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6f9ffef-1970-4236-b649-9c5fc8caa0c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/origenes.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origenes.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/fotoBarbería.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/hair-and-body-care/24hr-deodorant-bodywash.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/hair-and-body-care/anti-dandruff-sebum-shamp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/hair-and-body-care/classicbodywash.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/hair-and-body-care/daily-conditioner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/hair-and-body-care/daily-moistoruzing-shamp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/hair-and-body-care/hair-recovery-thickening-shamp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/hair-and-body-care/power-cleanser-shamp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/hair-and-body-care/precision-blend-shampoo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/hair-style-badge.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/prod-hairandbodycare.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/prod-shave.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/prod-style.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/shave/moisturizing-shave-cream.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/shave/post-shave-cooling-lotion.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/shave/precision-shave-gel.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/shave/ultra-gliding-shave-oil.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/shaving(1).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/shaving.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/style/boost-cream.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/style/boost-powder-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/style/classic-light-hold-gel-tube-no-size-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/style/classic_alternator.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/style/curl-control.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/style/defining-paste-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/style/fiber.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/style/firm-hold-styling-gel.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/style/forming-cream-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/style/grooming-cream-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/style/grooming-spray.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/style/light-hold-texture-lotion.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/style/medium-hold-spray-gel.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/style/molding-clay-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/style/pomade-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/style/superglue.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/productos/style/ultramatte.jpg" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/shows.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shows.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/fotoPortada.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/fotoPortada2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/instagram-logo-black-on-white.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/La-barberia-de-Manolo.zip" afterPath="$PROJECT_DIR$/La-barberia-de-Manolo.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagenes/productos/hair-and-body-care/3-in-1.png" afterPath="$PROJECT_DIR$/imagenes/productos/hair-and-body-care/3-in-1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagenes/productos/hair-and-body-care/gray-shampoo.png" afterPath="$PROJECT_DIR$/imagenes/productos/hair-and-body-care/gray-shampoo.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/cabecera.php" afterPath="$PROJECT_DIR$/common/cabecera.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/navLateral.php" afterPath="$PROJECT_DIR$/common/navLateral.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/servicios.css" afterPath="$PROJECT_DIR$/css/servicios.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/equipo.php" afterPath="$PROJECT_DIR$/equipo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prod_hair-and-body-care.php" afterPath="$PROJECT_DIR$/prod_hair-and-body-care.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prod_shave.php" afterPath="$PROJECT_DIR$/prod_shave.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prod_style.php" afterPath="$PROJECT_DIR$/prod_style.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/productos.php" afterPath="$PROJECT_DIR$/productos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/servicios.php" afterPath="$PROJECT_DIR$/servicios.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redesSociales.php" afterPath="$PROJECT_DIR$/redesSociales.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,51 +28,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="origenes.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/origenes.php">
+      <file leaf-file-name="shows.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shows.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="25" column="68" lean-forward="false" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="origenes.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/origenes.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="prod_shave.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/prod_shave.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="534">
-              <caret line="75" column="63" lean-forward="false" selection-start-line="75" selection-start-column="63" selection-end-line="75" selection-end-column="63" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="productos.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/productos.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="28" column="87" lean-forward="false" selection-start-line="28" selection-start-column="87" selection-end-line="28" selection-end-column="87" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="servicios.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/servicios.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+            <state relative-caret-position="205">
+              <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -164,15 +85,12 @@
         <option value="$PROJECT_DIR$/.idea/contacto.php" />
         <option value="$PROJECT_DIR$/css/contacto.css" />
         <option value="$PROJECT_DIR$/contacto.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/sevicios.php" />
         <option value="$PROJECT_DIR$/tendenciasGrid.php" />
         <option value="$PROJECT_DIR$/css/menu.css" />
         <option value="$PROJECT_DIR$/css/materialize.css" />
         <option value="$PROJECT_DIR$/servicios.php" />
         <option value="$PROJECT_DIR$/css/servicios.css" />
-        <option value="$PROJECT_DIR$/common/navLateral.php" />
-        <option value="$PROJECT_DIR$/common/cabecera.php" />
         <option value="$PROJECT_DIR$/equipo.php" />
         <option value="$PROJECT_DIR$/origenes.php" />
         <option value="$PROJECT_DIR$/css/origenes.css" />
@@ -180,6 +98,12 @@
         <option value="$PROJECT_DIR$/productos.php" />
         <option value="$PROJECT_DIR$/prod_hair-and-body-care.php" />
         <option value="$PROJECT_DIR$/prod_shave.php" />
+        <option value="$PROJECT_DIR$/common/navLateral.php" />
+        <option value="$PROJECT_DIR$/common/cabecera.php" />
+        <option value="$PROJECT_DIR$/css/shows.css" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/redesSociales.php" />
+        <option value="$PROJECT_DIR$/shows.php" />
       </list>
     </option>
   </component>
@@ -213,6 +137,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -226,55 +151,8 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="La-barberia-de-Manolo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="La-barberia-de-Manolo" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="imagenes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="La-barberia-de-Manolo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="La-barberia-de-Manolo" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="imagenes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="equipo" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="La-barberia-de-Manolo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="La-barberia-de-Manolo" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -377,11 +255,13 @@
       <workItem from="1501088931924" duration="9916000" />
       <workItem from="1501178550700" duration="6844000" />
       <workItem from="1501265650571" duration="5975000" />
+      <workItem from="1501279794100" duration="44000" />
+      <workItem from="1501320173264" duration="1333000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96643000" />
+    <option name="totallyTimeSpent" value="98020000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="32" width="1920" height="1048" extended-state="6" />
@@ -417,25 +297,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/menu.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="726">
           <caret line="33" column="8" lean-forward="false" selection-start-line="33" selection-start-column="8" selection-end-line="36" selection-end-column="76" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -443,7 +308,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
           <caret line="29" column="64" lean-forward="false" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="64" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -466,7 +330,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -474,7 +337,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -490,7 +352,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -515,7 +376,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -549,7 +409,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="24" column="7" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="24" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -572,7 +431,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="16" selection-end-column="75" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -601,7 +459,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-82">
           <caret line="49" column="21" lean-forward="true" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -642,19 +499,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/redesSociales.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="35" column="61" lean-forward="false" selection-start-line="35" selection-start-column="61" selection-end-line="35" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tendenciasGrid.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="534">
           <caret line="113" column="18" lean-forward="false" selection-start-line="113" selection-start-column="18" selection-end-line="113" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -674,7 +522,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="257">
           <caret line="6027" column="17" lean-forward="false" selection-start-line="6027" selection-start-column="13" selection-end-line="6027" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -682,31 +529,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="27" column="64" lean-forward="false" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="50" column="14" lean-forward="false" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/navLateral.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/cabecera.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="53" lean-forward="false" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -714,14 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1122">
           <caret line="51" column="53" lean-forward="true" selection-start-line="51" selection-start-column="53" selection-end-line="51" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/origenes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="68" lean-forward="false" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
           <folding />
         </state>
       </provider>
@@ -734,18 +548,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/productos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="87" lean-forward="false" selection-start-line="28" selection-start-column="87" selection-end-line="28" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prod_hair-and-body-care.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="666">
           <caret line="106" column="8" lean-forward="false" selection-start-line="106" selection-start-column="8" selection-end-line="106" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prod_style.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3080">
+          <caret line="140" column="67" lean-forward="false" selection-start-line="140" selection-start-column="67" selection-end-line="140" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prod_shave.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="75" column="63" lean-forward="false" selection-start-line="75" selection-start-column="63" selection-end-line="75" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="87" lean-forward="false" selection-start-line="28" selection-start-column="87" selection-end-line="28" selection-end-column="87" />
           <folding />
         </state>
       </provider>
@@ -758,18 +586,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod_style.php">
+    <entry file="file://$PROJECT_DIR$/origenes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3080">
-          <caret line="140" column="67" lean-forward="false" selection-start-line="140" selection-start-column="67" selection-end-line="140" selection-end-column="67" />
+        <state relative-caret-position="22">
+          <caret line="25" column="68" lean-forward="false" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod_shave.php">
+    <entry file="file://$PROJECT_DIR$/common/navLateral.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="75" column="63" lean-forward="false" selection-start-line="75" selection-start-column="63" selection-end-line="75" selection-end-column="63" />
+        <state relative-caret-position="198">
+          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/cabecera.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="47" lean-forward="false" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/shows.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="36" column="59" lean-forward="false" selection-start-line="36" selection-start-column="59" selection-end-line="36" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redesSociales.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="40" column="132" lean-forward="false" selection-start-line="40" selection-start-column="132" selection-end-line="40" selection-end-column="132" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shows.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
           <folding />
         </state>
       </provider>

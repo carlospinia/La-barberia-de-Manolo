@@ -9,7 +9,7 @@
           <li> <a title="Tendencias" href="tendenciasGrid.php">Tendencias</a> </li>
           <li> <a title="Productos" href="productos.php">Productos</a> </li>
           <li> <a title="Origenes" href="origenes.php">Origenes</a> </li>
-          <li> <a title="Shows" href="">Shows</a> </li>
+          <li> <a title="Shows" href="shows.php">Shows</a> </li>
           <li> <a title="Equipo" href="equipo.php">Equipo</a> </li>
           <li> <a title="Redes sociales" href="redesSociales.php">Redes sociales</a></li>
       </ul>
