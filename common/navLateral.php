@@ -6,7 +6,7 @@
                     src="imagenes/icons/young-man-with-modern-hair-cut.png" alt=""/></i>Tendencias</a></li>
     <li><a href="productos.php" class="waves-effect white-text"><i class="material-icons white-text"><img
                     src="imagenes/icons/hair-softener.png" alt=""/></i>Producos</a></li>
-    <li><a href="origenes.php" class="waves-effect white-text"><i class="material-icons white-text">today</i>Orígenes</a></li>
+    <li><a href="formacion.php" class="waves-effect white-text"><i class="material-icons white-text">today</i>Formación</a></li>
     <li><a href="shows.php" class="waves-effect white-text"><i class="material-icons white-text"><img src="imagenes/icons/youtube.png"
                                                                                                alt=""/></i>Shows</a></li>
     <li><a href="equipo.php" class="waves-effect white-text"><i class="material-icons white-text"><img src="imagenes/icons/diploma.png"

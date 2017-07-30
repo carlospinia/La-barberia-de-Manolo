@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>La barbería de Manolo</title>
     <link rel="stylesheet" href="css/menu.css">
-    <link rel="stylesheet" href="css/contacto.css">
+    <link rel="stylesheet" href="css/shows.css">
     <link id="favicon" rel="icon" href="razor_black.png" type="image/png"/>
 
     <!--Import Google Icon Font-->
@@ -20,10 +20,10 @@
 
 <div class="row">
     <div class="col s12 m5 offset-m1">
-        <img class="responsive-img" src="imagenes/shows/manolo_copas.jpg">
+        <!-- <img class="responsive-img" src="imagenes/shows/manolo_copas.jpg"> -->
     </div>
 
-    <div class="col s12 m5">
+    <div class="col s12 m8 offset-m2">
         <div class="video-container">
             <iframe width="853" height="480" src="//www.youtube.com/embed/Q8TXgCzxEnw?rel=0" frameborder="0" allowfullscreen></iframe>
         </div>

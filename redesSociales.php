@@ -34,8 +34,7 @@
     <!-- LightWidget WIDGET -->
     <div class="col s12 m5 l5 offset-l1 offset-m1">
         <a href="https://www.instagram.com/labarberiademanolo"><img class="responsive-img col s8 m6 l6" src="imagenes/redes_sociales/instagram-logo-black-on-white.png" style="height: 110px"></a>
-        <!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/74b8b310c510561bbd3a78f875ba8586.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
-    </div>
+        <!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/c33aa2a929e250e3b876296c19f3f07d.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>    </div>
 
     <div class="col s12 m5 l5 offset-l1 offset-m1">
         <a href="https://www.facebook.com/labarberiademanolo"><img class="responsive-img col s8 m6 l6" src="imagenes/redes_sociales/facebook.png" style="margin-top: 20px; margin-bottom: 35px"></a>

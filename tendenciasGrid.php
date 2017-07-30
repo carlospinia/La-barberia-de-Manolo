@@ -32,82 +32,82 @@
 
     <div class="content">
         <div class="grid">
-            <div class="grid__item" data-size="1280x853">
+            <div class="grid__item zoomIt" data-size="1280x853">
                 <a href="imagenes/tendencias/1.jpg" class="img-wrap"><img src="imagenes/tendencias/1.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
-            <div class="grid__item" data-size="958x1280">
+            <div class="grid__item zoomIt" data-size="958x1280">
                 <a href="imagenes/tendencias/2.jpg" class="img-wrap"><img src="imagenes/tendencias/2.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
-            <div class="grid__item" data-size="837x1280">
+            <div class="grid__item zoomIt" data-size="837x1280">
                 <a href="imagenes/tendencias/3.jpg" class="img-wrap"><img src="imagenes/tendencias/3.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
-            <div class="grid__item" data-size="1280x961">
+            <div class="grid__item zoomIt" data-size="1280x961">
                 <a href="imagenes/tendencias/4.jpg" class="img-wrap"><img src="imagenes/tendencias/4.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
-            <div class="grid__item" data-size="1280x1131">
+            <div class="grid__item zoomIt" data-size="1280x1131">
                 <a href="imagenes/tendencias/5.jpg" class="img-wrap"><img src="imagenes/tendencias/5.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
-            <div class="grid__item" data-size="1280x857">
+            <div class="grid__item zoomIt" data-size="1280x857">
                 <a href="imagenes/tendencias/6.jpg" class="img-wrap"><img src="imagenes/tendencias/6.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
-            <div class="grid__item" data-size="1280x1280">
+            <div class="grid__item zoomIt" data-size="1280x1280">
                 <a href="imagenes/tendencias/7.jpg" class="img-wrap"><img src="imagenes/tendencias/7.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
-            <div class="grid__item" data-size="1280x853">
+            <div class="grid__item zoomIt" data-size="1280x853">
                 <a href="imagenes/tendencias/8.jpg" class="img-wrap"><img src="imagenes/tendencias/8.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
-            <div class="grid__item" data-size="865x1280">
+            <div class="grid__item zoomIt" data-size="865x1280">
                 <a href="imagenes/tendencias/9.jpg" class="img-wrap"><img src="imagenes/tendencias/9.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
-            <div class="grid__item" data-size="1280x1280">
+            <div class="grid__item zoomIt" data-size="1280x1280">
                 <a href="imagenes/tendencias/10.jpg" class="img-wrap"><img src="imagenes/tendencias/10.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
-            <div class="grid__item" data-size="1280x1280">
+            <div class="grid__item zoomIt" data-size="1280x1280">
                 <a href="imagenes/tendencias/11.jpg" class="img-wrap"><img src="imagenes/tendencias/11.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
-            <div class="grid__item" data-size="1280x1280">
+            <div class="grid__item zoomIt" data-size="1280x1280">
                 <a href="imagenes/tendencias/12.jpg" class="img-wrap"><img src="imagenes/tendencias/12.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
-            <div class="grid__item" data-size="1280x1280">
+            <div class="grid__item zoomIt" data-size="1280x1280">
                 <a href="imagenes/tendencias/13.jpg" class="img-wrap"><img src="imagenes/tendencias/13.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
-            <div class="grid__item" data-size="1280x1280">
+            <div class="grid__item zoomIt" data-size="1280x1280">
                 <a href="imagenes/tendencias/14.jpg" class="img-wrap"><img src="imagenes/tendencias/14.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
-            <div class="grid__item" data-size="1280x1280">
+            <div class="grid__item zoomIt" data-size="1280x1280">
                 <a href="imagenes/tendencias/15.jpg" class="img-wrap"><img src="imagenes/tendencias/15.jpg"/>
                     <div class="description description--grid"></div>
                 </a>
             </div>
-            <div class="grid__item" data-size="1280x1280">
+            <div class="grid__item zoomIt" data-size="1280x1280">
                 <a href="imagenes/tendencias/16.jpg" class="img-wrap"><img src="imagenes/tendencias/16.jpg"/>
                     <div class="description description--grid"></div>
                 </a>

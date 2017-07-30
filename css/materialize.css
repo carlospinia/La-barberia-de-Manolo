@@ -5,7 +5,7 @@
  */
 
 body{
-  padding-top: 95px;
+  padding-top: 115px;
 }
 
 a:focus {
@@ -4023,7 +4023,7 @@ nav {
   color: #fff;
   background-color: #000;
   width: 100%;
-  height: 85px;
+  height: 105px;
   /*border-bottom: solid 3px #1E8201;*/
 }
 
@@ -4060,8 +4060,17 @@ nav .nav-wrapper {
   height: 100%;
 }
 
-@media only screen and (min-width: 993px) {
+@media only screen and (min-width: 1400px) {
   nav a.button-collapse {
+    display: none;
+  }
+
+}
+
+@media only screen and (max-width: 1400px){
+  ul:not(.browser-default) {
+    padding-left: 0;
+    list-style-type: none;
     display: none;
   }
 }
@@ -4080,7 +4089,7 @@ nav .button-collapse i {
 }
 
 nav .brand-logo {
-    margin-left: 20px;
+  margin-left: 20px;
   position: absolute;
   color: #fff;
   display: inline-block;
@@ -4091,7 +4100,7 @@ nav .brand-logo {
 
 nav .brand-logo img {
   margin-top: 8px;
-  max-height: 77px;
+  max-height: 95px;
 }
 
 nav .brand-logo.center {
@@ -4221,7 +4230,7 @@ nav .input-field label.active {
 
 @media only screen and (min-width: 601px) {
   nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
-    height: 85px;
+    height: 105px;
     line-height: 83px;
   }
   .navbar-fixed {
@@ -4262,6 +4271,15 @@ nav .input-field label.active {
   src: url("../fonts/roboto/Roboto-Bold.eot");
   src: url("../fonts/roboto/Roboto-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/roboto/Roboto-Bold.woff2") format("woff2"), url("../fonts/roboto/Roboto-Bold.woff") format("woff"), url("../fonts/roboto/Roboto-Bold.ttf") format("truetype");
   font-weight: 700;
+}
+
+
+@font-face { font-family: "Moandhand";
+  src: url('../fonts/MOANHAND.otf'), url('../fonts/MOANHAND.ttf');
+}
+
+@font-face { font-family: "Dashand";
+  src: url('../fonts/DansHand.otf');
 }
 
 a {

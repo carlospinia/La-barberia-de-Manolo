@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>La barbería de Manolo</title>
     <link rel="stylesheet" href="css/menu.css">
-    <link rel="stylesheet" href="css/servicios.css">
+    <link rel="stylesheet" href="css/formacion.css">
     <link id="favicon" rel="icon" href="razor_black.png" type="image/png"/>
 
     <!--Import Google Icon Font-->
@@ -21,103 +21,38 @@
 <?php include 'common/cabecera.php' ?>
 
 <div class="row">
-
-    <div class="col s12 m5 offset-m1">
-        <div class="card black white-text">
-            <div class="card-image">
-                <img src="imagenes/servicios/barba-sombreado.jpg">
-            </div>
-            <div class="card-content transparent white-text" id="textoTarjeta">
-                <span class="card-title center-align">Servicio</span>
-                <p>I am a very simple card. I am good at containing small bits of information...</p>
-            </div>
-        </div>
+    <div class="col s12 m4 l3 white-text center-align">
+        <h3 style="font-family: Moandhand">CORTE</h3>
+        <p>Corte de vanguardia sobre la base clasica de la alta peluqueria de caballeros. Realizada por los mejores profesionales en todas las técnicas y estilos.</p>
     </div>
-
-    <div class="col s12 m5">
-        <div class="card black white-text">
-            <div class="card-image">
-                <img src="imagenes/servicios/barba-sombreado.jpg">
-            </div>
-            <div class="card-content transparent white-text" id="textoTarjeta">
-                <span class="card-title center-align">Servicio</span>
-                <p>I am a very simple card. I am good at containing small bits of information...</p>
-            </div>
-        </div>
+    <div class="col s12 m4 l3 white-text center-align">
+        <h3 style="font-family: Moandhand">AFEITADO</h3>
+        <p>Con la técnica apropiada realizaremos un afeitado final. Perfecto para relajarse con nuestras toallas calientes y frias, sumando la hidratación para conseguir ese acabado que te mereces.</p>
     </div>
-
-    <div class="col s12 m5 offset-m1">
-        <div class="card black white-text">
-            <div class="card-image">
-                <img src="imagenes/servicios/barba-sombreado.jpg">
-            </div>
-            <div class="card-content transparent white-text" id="textoTarjeta">
-                <span class="card-title center-align">Servicio</span>
-                <p>I am a very simple card. I am good at containing small bits of information...</p>
-            </div>
-        </div>
+    <div class="col s12 m4 l3 white-text center-align">
+        <h3 style="font-family: Moandhand">TINTE</h3>
+        <p>Corte de vanguardia sobre la base clasica de la alta peluqueria de caballeros. Realizada por los mejores profesionales en todas las técnicas y estilos.</p>
     </div>
-
-    <div class="col s12 m5">
-        <div class="card black white-text">
-            <div class="card-image">
-                <img src="imagenes/servicios/barba-sombreado.jpg">
-            </div>
-            <div class="card-content transparent white-text" id="textoTarjeta">
-                <span class="card-title center-align">Servicio</span>
-                <p>I am a very simple card. I am good at containing small bits of information...</p>
-            </div>
-        </div>
+    <div class="col s12 m4 l3 white-text center-align">
+        <h3 style="font-family: Moandhand">MECHAS</h3>
+        <p>Corte de vanguardia sobre la base clasica de la alta peluqueria de caballeros. Realizada por los mejores profesionales en todas las técnicas y estilos.</p>
     </div>
-
-    <div class="col s12 m5 offset-m1">
-        <div class="card black white-text">
-            <div class="card-image">
-                <img src="imagenes/servicios/barba-sombreado.jpg">
-            </div>
-            <div class="card-content transparent white-text" id="textoTarjeta">
-                <span class="card-title center-align">Servicio</span>
-                <p>I am a very simple card. I am good at containing small bits of information...</p>
-            </div>
-        </div>
+    <div class="col s12 m4 l3 white-text center-align">
+        <h3 style="font-family: Moandhand">BARBA</h3>
+        <p>Corte de vanguardia sobre la base clasica de la alta peluqueria de caballeros. Realizada por los mejores profesionales en todas las técnicas y estilos.</p>
     </div>
-
-    <div class="col s12 m5">
-        <div class="card black white-text">
-            <div class="card-image">
-                <img src="imagenes/servicios/barba-sombreado.jpg">
-            </div>
-            <div class="card-content transparent white-text" id="textoTarjeta">
-                <span class="card-title center-align">Servicio</span>
-                <p>I am a very simple card. I am good at containing small bits of information...</p>
-            </div>
-        </div>
+    <div class="col s12 m4 l3 white-text center-align">
+        <h3 style="font-family: Moandhand">LAVAR Y PEINAR</h3>
+        <p>Corte de vanguardia sobre la base clasica de la alta peluqueria de caballeros. Realizada por los mejores profesionales en todas las técnicas y estilos.</p>
     </div>
-
-    <div class="col s12 m5 offset-m1">
-        <div class="card black white-text">
-            <div class="card-image">
-                <img src="imagenes/servicios/barba-sombreado.jpg">
-            </div>
-            <div class="card-content transparent white-text" id="textoTarjeta">
-                <span class="card-title center-align">Servicio</span>
-                <p>I am a very simple card. I am good at containing small bits of information...</p>
-            </div>
-        </div>
+    <div class="col s12 m4 l3 white-text center-align">
+        <h3 style="font-family: Moandhand">CORTE NAVAJA</h3>
+        <p>Corte de vanguardia sobre la base clasica de la alta peluqueria de caballeros. Realizada por los mejores profesionales en todas las técnicas y estilos.</p>
     </div>
-
-    <div class="col s12 m5">
-        <div class="card black white-text">
-            <div class="card-image">
-                <img src="imagenes/servicios/barba-sombreado.jpg">
-            </div>
-            <div class="card-content transparent white-text" id="textoTarjeta">
-                <span class="card-title center-align">Servicio</span>
-                <p>I am a very simple card. I am good at containing small bits of information...</p>
-            </div>
-        </div>
+    <div class="col s12 m4 l3 white-text center-align">
+        <h3 style="font-family: Moandhand">CORTE TRIBAL</h3>
+        <p>Corte de vanguardia sobre la base clasica de la alta peluqueria de caballeros. Realizada por los mejores profesionales en todas las técnicas y estilos.</p>
     </div>
-
 </div>
 
 <!-- navBar -->
