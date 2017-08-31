@@ -16,7 +16,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
 
-<body style="background: black;">
+<body style="background: black; margin-top: 100px">
 <!-- necesario para que funcione la parte de facebook -->
 <div id="fb-root"></div>
 <script>(function(d, s, id) {

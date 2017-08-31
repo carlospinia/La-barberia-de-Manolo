@@ -21,7 +21,7 @@
 <?php include 'common/cabecera.php' ?>
 
 <div class="row">
-    <div class="col s12 m8 offset-m1 white-text" style="font-size: medium; padding-top: 20px;">
+    <div class="col s12 m8 offset-m1 white-text" style="font-size: medium; padding: 20px; margin-top: 115px;">
         <p>
             Master class impartida por D. Manuel Naranjo Mármol, personalizada o grupal,
             sobre todo tipo de técnicas de peluquería o barbería de caballeros y que van
@@ -30,7 +30,7 @@
             e innovadoras (Director Artístico del grupo Madrid Moda).
         </p>
         <p>
-            Manuel Naranjo comenzó a formarse en distintas academias y cursos pasando a a desarrollarse a nivel profesional
+            Manuel Naranjo comenzó a formarse en distintas academias y cursos pasando a desarrollarse a nivel profesional
             decidió darse un plus ingresando en la escuela de la "Asociación de Empresas de peluqueros de caballeros y señoras de Madrid"
             teniendo la gran suerte de aprender de los grandes maestros de la peluquería clásica. Durante este periodo de tres años
             fue premiado como mejor alumno en cada uno de ellos.

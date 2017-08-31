@@ -20,31 +20,23 @@
 
 <?php include 'common/cabecera.php' ?>
 
-<div class="row">
-    <div class="col m8 offset-m2 hide-on-small-and-down">
-        <!-- <img class="responsive-img" src="imagenes/origenes/fotoBarberiaPC_BN.jpg"> -->
-        <p class="white-text" style="padding: 10%;  font-size: large">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-            nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-            deserunt mollit anim id est laborum.
-        </p>
-    </div>
+<div class="row hide-on-large-only">
+    <div class="col s12 m8 offset-m2 white-text" style="font-size: medium; padding: 30px; text-align: center;">
+        <p>En el año 2003 después de una dilatada experiencia como peluqueros, surgen una serie de inquietudes profesionales enfocadas a realizar un estilo de peluquería clásica con una vuelta de tuerca, mas actual y atrevida en la que poder desarrollar todo nuestro potencial sumado a los nuevos gustos, ideas y tendencias de nuestros clientes, de todas las edades. Ellos no solo son nuestra mejor publicidad sino que tenemos también la suerte de contar con una clientela espectacular que genera en nuestro salón un ambiente fantástico para trabajar motivados.</p>
+        <p>Unas de las vueltas de tuerca nos llevo a implantar un sistema de citas único con una puntualidad exquisita, lo que hace que se el sistema sea fluido y no se generen demoras, pudiendo disponer de ese tiempo que para todos es tan preciado y que podemos gastar en disfrutar. Siempre que seas puntual claro.</p>
+        <p>En definitiva "La Barbaría de Manolo" es ese rinconcito para pasar un buen rato entre los mejores profesionales sin perder tiempo y salir arreglado y contento.</p>
+        <p style="font-size: x-large;">¡Ven y pídenos cita!</p>
+     </div>
 
-    <div class="col s12 hide-on-med-and-up">
-        <!-- <img class="responsive-img" src="imagenes/origenes/fotoBarberiaMovil_BN.jpg"> -->
-        <p class="white-text" style="padding: 10%;">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-            nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-            deserunt mollit anim id est laborum.
-        </p>
-    </div>
+</div>
 
+<div class="row hide-on-med-and-down">
+    <div class="col m6 offset-m5 white-text" style="font-size: medium; padding: 30px; text-align: center;">
+        <p>En el año 2003 después de una dilatada experiencia como peluqueros, surgen una serie de inquietudes profesionales enfocadas a realizar un estilo de peluquería clásica con una vuelta de tuerca, mas actual y atrevida en la que poder desarrollar todo nuestro potencial sumado a los nuevos gustos, ideas y tendencias de nuestros clientes, de todas las edades. Ellos no solo son nuestra mejor publicidad sino que tenemos también la suerte de contar con una clientela espectacular que genera en nuestro salón un ambiente fantástico para trabajar motivados.</p>
+        <p>Unas de las vueltas de tuerca nos llevo a implantar un sistema de citas único con una puntualidad exquisita, lo que hace que se el sistema sea fluido y no se generen demoras, pudiendo disponer de ese tiempo que para todos es tan preciado y que podemos gastar en disfrutar. Siempre que seas puntual claro.</p>
+        <p>En definitiva "La Barbaría de Manolo" es ese rinconcito para pasar un buen rato entre los mejores profesionales sin perder tiempo y salir arreglado y contento.</p>
+        <p style="font-size: x-large;">¡Ven y pídenos cita!</p>
+    </div>
 </div>
 
 <!-- navBar -->

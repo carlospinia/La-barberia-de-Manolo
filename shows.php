@@ -16,19 +16,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
 <body>
-<?php include 'common/cabecera.php' ?>
+<?php include 'common/cabeceraShows.php' ?>
 
-<div class="row">
-    <div class="col s12 m5 offset-m1">
-        <!-- <img class="responsive-img" src="imagenes/shows/manolo_copas.jpg"> -->
+<div id="1">
+    <div class="row" style="margin-top: 50px;">
+        <video class="responsive-video col s12 m6 offset-m3" controls>
+            <source src="imagenes/shows/Gala_Bell_Pel-caballeros.mp4" type="video/mp4">
+        </video>
     </div>
+</div>
 
-    <div class="col s12 m8 offset-m2">
-        <div class="video-container">
-            <iframe width="853" height="480" src="//www.youtube.com/embed/Q8TXgCzxEnw?rel=0" frameborder="0" allowfullscreen></iframe>
+<div id="2">
+    <div class="row" style="margin-top: 80px;">
+        <div class="col s12 m6 offset-m3">
+            <div class="video-container">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/junrTovmdq0" frameborder="0" allowfullscreen></iframe>
+            </div>
         </div>
-        <div class="video-container">
-            <iframe width="853" height="480" src="//www.youtube.com/embed/Q8TXgCzxEnw?rel=0" frameborder="0" allowfullscreen></iframe>
+    </div>
+</div>
+
+<div id="3">
+    <div class="row" style="margin-top: 80px;">
+        <div class="col s12 m6 offset-m3">
+            <div class="video-container">
+                <iframe width="854" height="480" src="https://www.youtube.com/embed/P7FHOC9k6Zk" frameborder="0" allowfullscreen></iframe>
+            </div>
         </div>
     </div>
 </div>
