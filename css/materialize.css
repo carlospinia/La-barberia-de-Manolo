@@ -4,9 +4,6 @@
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
 
-body{
-  padding-top: 115px;
-}
 
 a:focus {
   outline: none;
@@ -4068,17 +4065,15 @@ nav .nav-wrapper {
 }
 
 @media only screen and (max-width: 1400px){
-  ul:not(.browser-default) {
-    padding-left: 0;
-    list-style-type: none;
-    display: none;
-  }
+   #nav-mobile {
+   display: none;
+ }
 }
 
 nav .button-collapse {
   float: left;
   position: relative;
-  z-index: 1;
+  z-index: 101;
   height: 56px;
   margin: 0 18px;
 }
@@ -4090,12 +4085,13 @@ nav .button-collapse i {
 
 nav .brand-logo {
   margin-left: 20px;
-  position: absolute;
+  /*position: absolute;*/
   color: #fff;
   display: inline-block;
   font-size: 2.1rem;
   padding: 0;
   white-space: nowrap;
+  max-width: 60%;
 }
 
 nav .brand-logo img {
@@ -4676,7 +4672,7 @@ small {
   color: #ffab40;
   margin-right: 20px;
   transition: color .3s ease;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 .card .card-action a:not(.btn):not(.btn-large):not(.btn-floating):hover {
@@ -4836,11 +4832,11 @@ small {
   height: 48px;
   padding: 0;
   margin: 0;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 .tabs .tab a {
-  color: rgba(238, 110, 115, 0.7);
+  color: white;
   display: block;
   width: 100%;
   height: 100%;
@@ -4852,13 +4848,13 @@ small {
 }
 
 .tabs .tab a:hover, .tabs .tab a.active {
-  background-color: transparent;
-  color: #ee6e73;
+  background-color: #07a600;
+  color: white;
 }
 
 .tabs .tab.disabled a,
 .tabs .tab.disabled a:hover {
-  color: rgba(238, 110, 115, 0.7);
+  color: white;
   cursor: default;
 }
 
@@ -4867,12 +4863,12 @@ small {
   position: absolute;
   bottom: 0;
   height: 100%;
-  background-color: #0f9d58;
+  background-color: limegreen;
   will-change: left, right;
 }
 
 .tabs .tab a.active {
-  border-bottom: 2px solid #238104;
+  border-bottom: 2px solid limegreen;
 }
 
 @media only screen and (max-width: 992px) {
@@ -4935,7 +4931,7 @@ small {
   height: 36px;
   line-height: 36px;
   padding: 0 2rem;
-  text-transform: uppercase;
+  text-transform: none;
   vertical-align: middle;
   -webkit-tap-highlight-color: transparent;
 }
@@ -4996,13 +4992,13 @@ small {
 
 .btn:focus, .btn-large:focus,
 .btn-floating:focus {
-  background-color: #1d7d74;
+  background-color: green;
 }
 
 .btn, .btn-large {
   text-decoration: none;
   color: #fff;
-  background-color: #26a69a;
+  background-color: rgba(46, 168, 62, 0.5);
   text-align: center;
   letter-spacing: .5px;
   transition: .2s ease-out;
@@ -5010,7 +5006,7 @@ small {
 }
 
 .btn:hover, .btn-large:hover {
-  background-color: #32cd32;
+  background-color: rgba(46, 168, 62, 0.5);
 }
 
 .btn-floating {
@@ -5496,8 +5492,13 @@ button.btn-floating {
   min-height: 3rem;
   line-height: 3rem;
   padding: 0 1rem;
-  background-color: #fff;
+  background-color: green;
   border-bottom: 1px solid #ddd;
+  color:white;
+}
+
+.collapsible-header:hover{
+  background-color: rgba(7, 166, 0, 0.48);
 }
 
 .collapsible-header i {
@@ -8354,7 +8355,7 @@ input[type=range]:focus::-ms-fill-upper {
 }
 
 .picker__month-display {
-  text-transform: uppercase;
+  text-transform: none;
   font-size: 2rem;
 }
 
@@ -8539,7 +8540,7 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   font-weight: 500;
   font-size: .67em;
   text-align: center;
-  text-transform: uppercase;
+  text-transform: none;
   color: #666;
 }
 

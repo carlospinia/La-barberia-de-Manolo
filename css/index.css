@@ -2,6 +2,7 @@
 
 body {
     background: black;
+    padding-top: 115px;
 }
 
 img#foto-index {
@@ -9,60 +10,3 @@ img#foto-index {
     max-width: 50%;
     margin-left: 24%;
 }
-
-/*
- * Navegación
- */
-
-/*nav {
-    float: right;
-}
-nav ul {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    padding-right: 20px;
-}
-
-nav ul li {
-    display: inline-block;
-    line-height: 80px;
-}
-
-nav ul li a {
-    display: block;
-    padding: 0 10px;
-    text-decoration: none;
-}*/
-
-/*nav ul li a:hover {
-    /*background: #1E8201;
-    font-size: 20px;
-    color: #1E8201;
-}*/
-
-/*RELLENA MENU DE VERDE*/
-
-/*
-ul#nav-mobile li a{
-    position: relative;
-    color: #FFF;
-    font-weight: bold;
-}
-
-ul#nav-mobile li a:before{
-    position: absolute;
-    color: #64dd19;
-    content: attr(title);
-    left: 15px;
-    top: 0px;
-    max-width: 0%;
-    white-space: nowrap;
-    overflow: hidden;
-    transition: max-width 0.3s linear
-}
-
-ul#nav-mobile li a:hover:before{
-    max-width: 100%;
-}
-*/

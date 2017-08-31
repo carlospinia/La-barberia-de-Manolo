@@ -1,11 +1,26 @@
-body{
-    background-image: url(../imagenes/origenes/fotoBarberia.jpg);
+body {
+    background-image: url(../imagenes/origenes/fotoPc.jpg);
+    background-position-x: left;
+    background-position-y: 160px;
+    background-size: 50%;
     background-repeat: no-repeat;
-    background-position-x: center;
-    background-position-y: 90px;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    padding-top: 125px;
     background-color: black;
+    background-attachment: fixed;
+}
+
+@media only screen and (max-width: 993px) {
+    body {
+        background-image: url(../imagenes/origenes/fotoMovil.jpg);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-position-y: 90px;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        background-color: black;
+        background-attachment: fixed;
+        padding-top: 360px;
+    }
 }

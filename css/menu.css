@@ -4,6 +4,7 @@ header{
     top: 0;
     position: fixed;
     z-index: 100;
+    /*padding-bottom: 35px;*/
 }
 
 ul#nav-mobile li a{

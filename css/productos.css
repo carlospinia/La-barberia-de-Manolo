@@ -1,3 +1,25 @@
 body {
     background: black;
 }
+
+header{
+    margin-bottom: 200px; !important;
+}
+
+@media only screen and (min-width: 602px) {
+    .tarjeta-hair-and-body {
+        height: 671px;
+    }
+}
+
+@media only screen and (min-width: 602px) {
+    .tarjeta-shave {
+        height: 681px;
+    }
+}
+
+@media only screen and (min-width: 602px) {
+    .tarjeta-style {
+        height: 626px;
+    }
+}

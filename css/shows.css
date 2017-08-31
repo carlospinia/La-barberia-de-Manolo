@@ -1,12 +1,4 @@
 body{
-    background-image: url(../imagenes/shows/shows.jpg);
-    background-repeat: no-repeat;
-    background-position-x: center;
-    background-position-y: 90px;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
     background-color: black;
-    background-attachment: fixed;
+    padding-top: 115px;
 }

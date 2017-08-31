@@ -1,8 +1,33 @@
 body{
+    background-image: url(../imagenes/servicios/fotoBarberia.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: 90px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     background-color: black;
+    background-attachment: fixed;
+    padding-top: 155px;
 }
 
-#textoTarjeta {
-    margin-top: -110px;
-    position: relative;
+@media only screen and (min-width: 602px) {
+    #tarjeta {
+        height: 320px;
+    }
+}
+
+@media only screen and (max-width: 993px) {
+    body {
+        background-image: url(../imagenes/servicios/fotoBarberiaMovil.jpg);
+        background-repeat: no-repeat;
+        background-position-y: auto;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        background-color: black;
+        padding-top: 360px;
+    }
 }
