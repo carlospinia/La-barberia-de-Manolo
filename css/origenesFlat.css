@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    padding-top: 125px;
+}
+
+#equipo {
+  border-radius: 100%;
+  margin-top: 30px;
+  float: left;
+  padding: 3%;
+}
+
+#tarjeta{
+    font-size: medium; 
+    padding: 20px; 
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 15px solid black;
+    border-radius: 30px;
+}
+
+@media only screen and (max-width: 993px) {
+  #equipo{
+    margin-top: 0px;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  #equipo{
+    margin-top: 0px;
+    max-width: 50%;
+  }
+}

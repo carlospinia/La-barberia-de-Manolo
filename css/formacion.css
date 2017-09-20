@@ -1,5 +1,5 @@
 body{
-    background-image: url(../imagenes/formacion2.jpg);
+    /*background-image: url(../imagenes/formacion/pc.jpg);)
     background-repeat: no-repeat;
     background-position-x: center;
     background-position-y: 90px;
@@ -7,6 +7,46 @@ body{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    background-attachment: fixed;*/
     background-color: black;
-    background-attachment: fixed;
 }
+
+#imagen{ 
+    border-radius: 50px;
+    float: left;
+    max-width: 500px;
+    padding: 2%;
+}
+
+@media only screen and (max-width: 700px) {
+  #imagen{
+    margin-bottom: 20px;
+    border-radius: 20px;
+    max-width: 100%;
+  }
+}
+
+#tarjeta{
+    font-size: medium; 
+    padding: 20px; 
+    margin-top: 115px; 
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 15px solid black;
+    border-radius: 30px;
+}
+
+
+/*@media only screen and (max-width: 993px){
+    body{
+        background-image: url(../imagenes/formacion/movil.JPG);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-position-y: 90px;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        background-color: black;
+        background-attachment: fixed;
+    }
+}*/

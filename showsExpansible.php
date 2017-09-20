@@ -24,23 +24,23 @@
             <div class="collapsible-header center" style="border:none; border-radius: 5px;">Oscar mundial a la elegancia</div>
             <div class="collapsible-body black" style="border:none;">
                 <div class="video-container">
-                    <iframe width="854" height="480" src="https://www.youtube.com/embed/P7FHOC9k6Zk" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="854" height="480" src="https://www.youtube.com/embed/P7FHOC9k6Zk?rel=0" frameborder="0" allowfullscreen></iframe>
                 </div>
             </div>
         </li>
         <li style="border:none; margin: 5px; font-family: Moandhand; font-size: large;">
             <div class="collapsible-header center" style="border:none; border-radius: 5px;">Show otoño-invierno</div>
             <div class="collapsible-body black center-align" style="border:none;">
-                <video class="responsive-video" controls style="width: 80%;">
-                    <source src="imagenes/shows/Gala_Bell_Pel-caballeros.mp4" type="video/mp4">
-                </video>
+                <div class="video-container">
+                    <iframe width="640" height="360" src="https://www.youtube.com/embed/A978korrZxw?rel=0" frameborder="0" allowfullscreen></iframe>
+                </div>
             </div>
         </li>
         <li style="border: none; margin: 5px; font-family: Moandhand; font-size: large;">
             <div class="collapsible-header center" style="border:none; border-radius: 5px;">Gala Bell Pell</div>
             <div class="collapsible-body black" style="border:none;">
                 <div class="video-container">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/junrTovmdq0" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/junrTovmdq0?rel=0" frameborder="0" allowfullscreen></iframe>
                 </div>
             </div>
         </li>

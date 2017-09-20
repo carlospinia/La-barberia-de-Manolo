@@ -1,5 +1,5 @@
 body{
-    background-image: url(../imagenes/servicios/fotoBarberia.jpg);
+    /*background-image: url(../imagenes/servicios/fotoBarberia.jpg);*/
     background-repeat: no-repeat;
     background-position-x: center;
     background-position-y: 90px;
@@ -9,16 +9,28 @@ body{
     background-size: cover;
     background-color: black;
     background-attachment: fixed;
-    padding-top: 155px;
+    padding-top: 110px;
 }
 
-@media only screen and (min-width: 602px) {
-    #tarjeta {
+@media only screen and (min-width: 602px) and (max-width: 800px) {
+    #tam-tarjeta {
         height: 320px;
     }
 }
 
-@media only screen and (max-width: 993px) {
+@media only screen and (min-width: 800px) {
+    #tam-tarjeta {
+        height: 250px;
+    }
+}
+
+#tarjeta {
+    background-color: rgba(255, 255, 255, 0.1); 
+    border-radius: 25px;
+    border: 15px solid black;
+}
+
+/*@media only screen and (max-width: 993px) {
     body {
         background-image: url(../imagenes/servicios/fotoBarberiaMovil.jpg);
         background-repeat: no-repeat;
@@ -27,7 +39,7 @@ body{
         -moz-background-size: cover;
         -o-background-size: cover;
         background-size: cover;
-        background-color: black;
         padding-top: 360px;
+        background-color: black;
     }
-}
+}*/
